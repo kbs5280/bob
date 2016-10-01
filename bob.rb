@@ -15,5 +15,4 @@ class Bob
       'Whatever.'
     end
   end
-
 end
